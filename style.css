@@ -1,0 +1,17 @@
+*{margin: 0;
+padding: 0;}
+body{	
+background:url(img/fon.jpg);
+ background-size: 100% ;
+}
+a{color: black;
+	background: rgba(255,255,255,0.5);
+padding: 10px;
+text-decoration: none;
+box-shadow: 0px 0px 10px #00AAFF;
+}
+h1 {text-align: center;
+color: black;text-shadow: 5px 5px 10px #00AAFF;}
+table{width: 95%;
+margin: 0 auto; 
+}
